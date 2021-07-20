@@ -166,4 +166,3 @@ for entity in all_sprites:
 
 
 pygame.quit
-sys.exit
